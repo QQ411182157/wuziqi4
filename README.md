@@ -1,3 +1,5 @@
+人机模式 双人模式
+
 #### 安卓原生java语法，android studio开发，点击头像进主页看更多作品 下方有联系方式
 
  <img src='https://img.alicdn.com/imgextra/i2/1658540494/O1CN013eA6Lm1FWIbzALd6w_!!1658540494.jpg' alt='a219.jpg' /></br> 
